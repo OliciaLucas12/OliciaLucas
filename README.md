@@ -1,4 +1,4 @@
-# OliciaLucas
+OliciaLucas/ README.md
 
 # Hi, I'm Olicia 👋
 🎓 Business analytics and infomation systems student  
